@@ -1,0 +1,50 @@
+_repo: Tres-Comedias-Modernasen-un-acto-y-en-prosa_25687
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Barranco, Mariano
+    alias: Barranco y Caro, Mariano
+    birthdate: 1850
+    gutenberg_agent_id: '31510'
+    url: http://www.gutenberg.org/2009/agents/31510
+  - agent_name: Criado y Baca, Heliodoro
+    alias: Baca, Heliodoro Criado y
+    birthdate: 1843
+    gutenberg_agent_id: '31509'
+    url: http://www.gutenberg.org/2009/agents/31509
+  - agent_name: Ramos Carrión, Miguel
+    alias: Carrión, Miguel Ramos
+    birthdate: 1848
+    deathdate: 1915
+    gutenberg_agent_id: '31507'
+    url: http://www.gutenberg.org/2009/agents/31507
+    wikipedia: http://es.wikipedia.org/wiki/Miguel_Ramos_Carri%C3%B3n
+  - agent_name: Cocat, Luis
+    gutenberg_agent_id: '31508'
+    url: http://www.gutenberg.org/2009/agents/31508
+  editor:
+    agent_name: Morrison, Frederic William
+    birthdate: 1873
+    gutenberg_agent_id: '31506'
+    url: http://www.gutenberg.org/2009/agents/31506
+description: ''
+gutenberg_issued: '2008-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25687'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Comedies'
+- !lcc 'PQ'
+- !lcsh 'Spanish drama'
+tableOfContents: La muela del juicio -- Las solteronas -- Los pantalones.
+title: 'Tres Comedias Modernas
+
+  en un acto y en prosa'
+url: http://www.gutenberg.org/ebooks/25687
